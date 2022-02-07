@@ -1,0 +1,20 @@
+#moving{
+    font-size: 50px;
+    background-color: darkkhaki;
+    background-position: center center;
+    text-shadow: 5px 10px 10px red;
+    font-style: italic;
+    border-style: solid;
+    
+    
+}
+
+body{
+    background-image: url('s1.jpg');
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+    
+
+}
+
